@@ -24,3 +24,12 @@
 - Task_03 write a function to add any number of integers (both ES5 and ES6) es5 function
  ![image](https://github.com/nupoorkedare2002/Javascript-bootcamp-/assets/143624372/b56895c8-6513-4c6d-af7a-833476d38d87)
 #
+- JAVASCRIPT DAY_03
+- Task List
+- Task_01 : First function is a function constructor, named Expense. This function will generate an object of type Expense,
+- Task_02 : Second function will be used for generating an array of random expenses. The function will take an integer as input and return a single array containing random expenses. The number of elements in this array is equal to the input integer. You can use any random logic to chose category of expense, amount and description.
+- ![image](https://github.com/nupoorkedare2002/Javascript-bootcamp-/assets/143624372/6e16f1b1-6487-4fdc-b87c-508f4e497c18)
+#
+- JAVASCRIPT DAY_04
+- Task List
+
