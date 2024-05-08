@@ -32,4 +32,9 @@
 #
 - JAVASCRIPT DAY_04
 - Task List
+  Array and Array functions
+ Working with Arrays and objects is an important skill for designing applications.
+In this exercise you will create an array of expenes.
+Each item in the "Expenses" array of is an Expense object.
+- ![image](https://github.com/nupoorkedare2002/Javascript-Tasks/assets/143624372/2bdc4cc0-7135-469b-ac06-1c408024a712)
 
